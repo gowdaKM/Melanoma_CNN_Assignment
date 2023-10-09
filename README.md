@@ -76,19 +76,17 @@ The data set contains the following diseases:
 - Conclusion 3 from the analysis
 
  Now we have added 500 images to all the classes to maintain some class balance. 
-pigmented benign keratosis    962
-melanoma                      938
-basal cell carcinoma          876
-nevus                         857
-squamous cell carcinoma       681
-vascular lesion               639
-actinic keratosis             614
-dermatofibroma                595
-seborrheic keratosis          577
-Name: Label, dtype: int64
+- pigmented benign keratosis    962
+- melanoma                      938
+- basal cell carcinoma          876
+- nevus                         857
+- squamous cell carcinoma       681
+- vascular lesion               639
+- actinic keratosis             614
+- dermatofibroma                595
+- seborrheic keratosis          577
 
 ![image](https://github.com/gowdaKM/Melanoma_CNN_Assignment/assets/131829909/d08c2aac-2174-4d33-87d3-d4b8afad778f)
-
 
 - Validation accuracy is around .889
 - Training and validation accuracy follow eachother
@@ -102,5 +100,3 @@ Name: Label, dtype: int64
 - pandas
 - PIL
 
-## Contact
-Created by @githubusername - feel free to contact me!
